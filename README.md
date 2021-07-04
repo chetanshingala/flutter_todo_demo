@@ -49,9 +49,7 @@ Feature available soon:
 
 ## Screenshots
 
-<img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img1.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img2.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img3.png" width="280">
-
-<img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img4.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img5.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img6.png" width="280">
+<img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img1.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img2.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img3.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img4.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img5.png" width="280"> <img src="https://github.com/chetanshingala/flutter_todo_demo/blob/master/images/img6.png" width="280">
 
 ## Support
 
